@@ -1,6 +1,6 @@
 # pyfujitsu_for_homeassistant
 
-This is a platform to support Fujitsu General Airconditioners under Climate component of Home Assistant. The Python supporting library for accessing the FGLair API is located at: https://github.com/Mmodarre/pyfujitsu
+This is a platform to support Fujitsu General Airconditioners under Climate component of Home Assistant. The Python supporting library for accessing the FGLair API is located at: https://github.com/Mmodarre/pyfujitsu and extra Modification für use Home Assistent after 2021.6
 
 ### Sample UI:
 
