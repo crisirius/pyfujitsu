@@ -4,8 +4,8 @@ This is a platform to support Fujitsu General Airconditioners under Climate comp
 
 ### Sample UI:
 
-![UI_SCREENSHOT](https://github.com/Mmodarre/pyfujitsu_for_homeassistant/blob/master/Capture.PNG)
-![UI_SCREENSHOT](https://github.com/Mmodarre/pyfujitsu_for_homeassistant/blob/master/Capture2.PNG)
+![UI_SCREENSHOT](https://github.com/crisirius/pyfujitsu/blob/master/Capture.PNG)
+![UI_SCREENSHOT](https://github.com/crisirius/pyfujitsu/blob/master/Capture2.PNG)
 
 ### Usage:
 1. create this directory path `/config/custom_components/fujitsu_general_heatpump/` if it does not already exist.
